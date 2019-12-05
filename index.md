@@ -1,8 +1,6 @@
 ---
-
-title:雄果蝇的博客
-description:嗨！
-
+title: 雄果蝇的博客
+description: 嗨！
 ---
 
 ## 雄果蝇的博客
