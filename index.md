@@ -1,8 +1,4 @@
-<!--
- * @Author: Xiong Guoqing
- * @Date: 2019-12-06 10:10:24
- * @Email: xiong3219@icloud.com
- -->
+
 ---
 title: 雄果蝇的博客
 ---
