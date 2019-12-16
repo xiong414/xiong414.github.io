@@ -24,3 +24,5 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 2. 将词向量模型输入到RNN或者LSTM中
 3. 获取训练用的数据集
 
+### 其他
+1. 为vscode配置c/c++环境
