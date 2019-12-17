@@ -28,3 +28,14 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 
 ### 其他
 1. 为vscode配置c/c++环境 √
+
+### GloVe模型实现
+#### 项目流程
+1. 构造共现矩阵
+    - 确定window大小，先默认为2
+    - 确定corpus大小，从而确定矩阵size
+2. 构造神经网络，用log(xik)为标签进行训练
+3. 公式
+    $$
+        W_i^T
+    $$
