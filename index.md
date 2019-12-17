@@ -25,4 +25,4 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 3. 获取训练用的数据集
 
 ### 其他
-1. 为vscode配置c/c++环境
+1. 为vscode配置c/c++环境 √
