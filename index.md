@@ -20,9 +20,11 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 2. 自己动手实现SVM
 
 ### DL
-1. 学习GloVe算法去构造词向量模型
-2. 将词向量模型输入到RNN或者LSTM中
-3. 获取训练用的数据集
+1. GloVe
+2. seq2seq
+3. Transformer模型
+4. BERT模型
+
 
 ### 其他
 1. 为vscode配置c/c++环境 √
