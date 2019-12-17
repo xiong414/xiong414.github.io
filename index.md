@@ -35,7 +35,3 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
     - 确定window大小，先默认为2
     - 确定corpus大小，从而确定矩阵size
 2. 构造神经网络，用log(xik)为标签进行训练
-3. 公式
-    $$
-        W_i^T
-    $$
