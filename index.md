@@ -35,3 +35,7 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
     - 确定window大小，先默认为2
     - 确定corpus大小，从而确定矩阵size
 2. 构造神经网络，用log(xik)为标签进行训练
+
+#### 项目细化
+1. 构造共现矩阵
+    - 载入wordList，告诉模型有多少个词，再以此构造共现矩阵
