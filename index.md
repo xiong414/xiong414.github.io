@@ -29,6 +29,8 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 ### 其他
 1. 为vscode配置c/c++环境 √
 
+---
+
 ### GloVe模型实现
 #### 项目流程
 1. 构造共现矩阵
@@ -39,3 +41,9 @@ Email: [xiong3219@icloud.com](xiong3219@icloud.com)
 #### 项目细化
 1. 构造共现矩阵
     - 载入wordList，告诉模型有多少个词，再以此构造共现矩阵
+
+---
+
+### 制作炉石战旗助手
+
+1. 首先先学会如何用python抓取屏幕信息
